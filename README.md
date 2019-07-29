@@ -20,7 +20,7 @@
 ## Course Description
 This course will teach students to generate interactive websites including GIS maps and other data visualizations and reports using the R programming language. The course will focus on RStudio’s Shiny web application framework for creating interactive web applications, and the Leaflet library package for mobile-friendly interactive maps. This course builds directly from its prerequisite course, Programming R for Analytics course, and offers students a chance to build skills that will be marketable in both the public and the private sectors. Students will learn to load data from a variety of sources and formats for use in interactive web interfaces that can provide real-time information, including Rest APIs.
 
-###Learning Objectives 
+### Learning Objectives 
 *	Use R to generate interactive charts, maps, tables and graphs. 
 *	Create, develop and deploy R Shiny web applications.
 *	Customize the appearance of Shiny applications using Shiny and CSS.
