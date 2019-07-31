@@ -57,6 +57,16 @@ Assignments and projects are expected to follow Google’s R Style Guide.
 
 Students will be assigned the following final letter grades, based on calculations coming from the course assessment section.
 
+## Grades
+
+### Grading Rubric
+| Standard          | Weight | 100-90                                                         | 89-80                                                              | 79-70                                                   | 69-60                                                  | 59-0                                                    |
+|-------------------|--------|----------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| Code Standards    | 15     | All code meets the style guide standards                       | Most code meets the style guide standards                          | Some code meets style guide standards                   | Little code meets style guide standards                | No code meets style guide standards                     |
+| Git Commits       | 15     | All git commits and their comments are clear                   | Most git commits and their comments are clear                      | Some git commits and comments are clear                 | Few git commits and comments are clear                 | No or unclear git commits and comments                  |
+| App functionality | 40     | All assigned and additional server elements work without error | All assigned server elements work without error                    | Some of the assigned server elements work without error | Few of the assigned server elements work without error | None of the assigned server elements work without error |
+| User Interface    | 30     | All UI elements are clearly labeled and function properly      | All assigned UI elements are clearly labeled and function properly | All UI elements function properly                       | Few UI elements function properly nor clearly labeled. | No UI elements function properly nor clearly labeled.   |
+
 ### Grade	Percentage Interval
 * A+	97-100%
 * A	93-96%
@@ -73,7 +83,7 @@ Students will be assigned the following final letter grades, based on calculatio
 ### Grading Policies
 * Late-work policy: Because of the iterative nature of this course students expecting to get the most out of the course should stay up to date with assignments. Therefore, students without a valid excuse will not be eligible for a grade higher than 80% on any late assignment.
 * Make-up work policy: Emergencies and unforeseeable events can and do occur. If a student has an emergency of some kind they must notify the Professor within 24 hours of end of the emergency. Students are expected to provide some kind of basic documentation of the event.
-* Attendance and/or participation policy: Attendance is an important factor in learning the course material and seeking guidance from the professor, however no attendance will be taken. For students who may be sick or otherwise unable to attend class, lectures slides will be available online in advance on the course Github page.
+* Attendance and/or participation policy: Attendance is an important factor in learning the course material and seeking guidance from the professor, however no attendance will be taken. For students who may be sick or otherwise unable to attend class, lectures slides will be available online in advance on the course Github page,
 
 ## Course Policies
 * Academic Integrity & Collaboration: While in many instances you may find yourself working on teams while programming and performing analysis Shiny apps are contained and it is required that you understand how all portions work. To this end, Students may work together on assignments, but each student is required to submit their own code/application. To ease the grading process Students should regularly commit their code milestones to Github, including things that did not work. Students who do not follow these guidelines will receive a C- or lower grade on the assignment in question.
@@ -81,3 +91,5 @@ Students will be assigned the following final letter grades, based on calculatio
 * Accommodations for students with disabilities: If you have a disability and require accommodations, please contact Catherine Getchell, Director of Disability Resources, 412-268-6121, getchell@cmu.edu. If you have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate.
 * Statement on student wellness: As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may diminish your academic performance and/or reduce your ability to participate in daily activities. CMU services are available, and treatment does work. You can learn more about confidential mental health services available on campus at: http://www.cmu.edu/counseling/. Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
 * Mobile Devices: Using electronic devices not only detract from your learning experience but also that of your peers. Students are asked to keep their cell phones on vibrate and to keep them out of sight during lecture. If you have to take a call or respond to a message please leave the classroom. Students are permitted to use their cellphone during any in-class work time.
+
+## Course Schedule
