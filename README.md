@@ -44,12 +44,10 @@ This course will teach students to generate interactive websites including GIS m
 The final course grade will be calculated using the following categories:
 
 *	Assessment	Percentage of Final Grade
-  *	HW 1: Building a basic UI	10%
-  *	HW 2: Filtering a Plot	10%
-  *	Project 1: Create a Dashboard	30%
-  *	HW 3: API Calls	10%
-  *	HW 4: Leaflet Map	10%
-  *	Project 2: Interactive Map	30%
+  *	HW 1: Building a basic UI	15%
+  *	Project 1: Create a Dashboard	35%
+  *	HW 2: Leaflet Maps	15%
+  *	Project 2: Interactive Map	35%
 
 All assignments will be turned in by providing a link to the student’s GitHub repository of their work. This will allow the instructor to view how the student’s code evolved over time, for some Homework Assignments only a few commits may be necessary, but it is anticipated that the projects students complete will require numerous commits. The number of commits will not impact a student’s overall grade. Once you are done you should email the url of your github repo to gla@andrew.cmu.edu.
 
