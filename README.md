@@ -33,6 +33,7 @@ This course will teach students to generate interactive websites including GIS m
 *	Free user accounts for GitHub and shinyapps.io.
 *	We will not be using Canvas in this class, instead all Course Documents, Assignments and Lectures can be found here: https://github.com/RforOperations2019
 *	There is no required text for this course, but supplemental websites and materials will be provided in addition to course lectures.
+* Students can use data from any source for their homework assignments and first project, but these websites are good places to get started:
     *	http://www.wprdc.org/
     *	https://data.world/
     *	https://www.data.gov/
@@ -41,7 +42,6 @@ This course will teach students to generate interactive websites including GIS m
     *	https://data.cityofchicago.org/
 
 ## Assessments
-The final course grade will be calculated using the following categories:
 
 Assessment	Percentage of Final Grade:
 *	HW 1: Building a basic UI	15%
@@ -65,7 +65,7 @@ Students will be assigned the following final letter grades, based on calculatio
 | App functionality | 40     | All assigned and additional server elements work without error | All assigned server elements work without error                    | Some of the assigned server elements work without error | Few of the assigned server elements work without error | None of the assigned server elements work without error |
 | User Interface    | 30     | All UI elements are clearly labeled and function properly      | All assigned UI elements are clearly labeled and function properly | All UI elements function properly                       | Few UI elements function properly nor clearly labeled. | No UI elements function properly nor clearly labeled.   |
 
-### Grade	Percentage Interval
+### Percentage Intervals
 * A+	97-100%
 * A	93-96%
 * A-	90-92%
