@@ -101,14 +101,14 @@ Students will be assigned the following final letter grades, based on calculatio
 * 9/6 - Homework 1 Due
 #### Week 3
 * 9/10 - Reactive Programming Pt. 2
-* 9/12 - Advanced Reactive
+* 9/12 - Advanced Reactivity
 #### Week 4
 * 9/17 - Interactive Vizualisations
 * 9/19 - Dashboards & Troubleshooting
 ##### Week 5
 * 9/24 - Modules & Bookmarking
 * 9/26 - Project 1 In-class Work Day
-* 9/27 Project 1 Due
+* 9/27 - Project 1 Due
 #### Week 6
 * 10/1 - Leaflet
 * 10/2 - Leaflet w/ Shiny
