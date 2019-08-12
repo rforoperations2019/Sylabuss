@@ -91,3 +91,32 @@ Students will be assigned the following final letter grades, based on calculatio
 * Mobile Devices: Using electronic devices not only detract from your learning experience but also that of your peers. Students are asked to keep their cell phones on vibrate and to keep them out of sight during lecture. If you have to take a call or respond to a message please leave the classroom. Students are permitted to use their cellphone during any in-class work time.
 
 ## Course Schedule
+
+#### Week 1
+* 8/27 - Intro to GitHub and R Projects
+* 8/29 - Intro to Shiny
+#### Week 2
+* 9/3 - Reactive Programming Pt. 1
+* 9/5 - UI & Shinyapps.io Deployment
+* 9/6 - Homework 1
+#### Week 3
+* 9/10 - Reactive Programming Pt. 2
+* 9/12 - Advanced Reactive
+#### Week 4
+* 9/17 - Interactive Vizualisations
+* 9/19 - Dashboards & Troubleshooting
+##### Week 5
+* 9/24 - Modules & Bookmarking
+* 9/26 - Project 1 In-class Work Day
+* 9/27 Project 1 Due
+#### Week 6
+* 10/1 - Leaflet
+* 10/2 - Leaflet w/ Shiny
+* 10/3 - Homework 2
+#### Week 7
+* 10/8 - Deployment Methods
+* 10/10 - SQL & API's (Project 2 Extra Credit)
+#### Week 8
+* 10/15 - Project 2 In-class Work Day
+* 10/17 - Project 2 In-class Work Day
+* 10/18 - Project 2 Due
