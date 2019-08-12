@@ -1,6 +1,4 @@
-# Syllabus as Markdown
-
-## R Shiny for Operations
+# R Shiny for Operations
 * Tue/Thu  - 4:30-5:50 pm, Location: HBH 1004
 * Semester: Mini 1, Year: 2019
 * Units: 6, Section(s): 1
