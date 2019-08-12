@@ -76,7 +76,7 @@ Students will be assigned the following final letter grades, based on calculatio
 * C	73-76%
 * C-	70-72%
 * D	60-69%
-* R (F)	< 69%
+* R (F)	< 59%
 
 ### Grading Policies
 * Late-work policy: Because of the iterative nature of this course students expecting to get the most out of the course should stay up to date with assignments. Therefore, students without a valid excuse will not be eligible for a grade higher than 80% on any late assignment.
