@@ -31,7 +31,7 @@ This course will teach students to generate interactive websites including GIS m
 ## Learning Resources 
 *	Students will require a laptop capable of running R and R Studio for this course, and bring it to every class in order to follow along with lecture.
 *	Free user accounts for GitHub and shinyapps.io.
-*	We will not be using Canvas in this class, instead all Course Documents, Assignments and Lectures can be found here: https://github.com/RforOperations2018
+*	We will not be using Canvas in this class, instead all Course Documents, Assignments and Lectures can be found here: https://github.com/RforOperations2019
 *	There is no required text for this course, but supplemental websites and materials will be provided in addition to course lectures.
   *	http://www.wprdc.org/
   *	https://data.world/
@@ -98,7 +98,7 @@ Students will be assigned the following final letter grades, based on calculatio
 #### Week 2
 * 9/3 - Reactive Programming Pt. 1
 * 9/5 - UI & Shinyapps.io Deployment
-* 9/6 - Homework 1
+* 9/6 - Homework 1 Due
 #### Week 3
 * 9/10 - Reactive Programming Pt. 2
 * 9/12 - Advanced Reactive
@@ -112,7 +112,7 @@ Students will be assigned the following final letter grades, based on calculatio
 #### Week 6
 * 10/1 - Leaflet
 * 10/2 - Leaflet w/ Shiny
-* 10/3 - Homework 2
+* 10/3 - Homework 2 Due
 #### Week 7
 * 10/8 - Deployment Methods
 * 10/10 - SQL & API's (Project 2 Extra Credit)
