@@ -91,30 +91,30 @@ Students will be assigned the following final letter grades, based on calculatio
 ## Course Schedule
 
 #### Week 1
-* 8/27 - Intro to GitHub and R Projects
-* 8/29 - Intro to Shiny
+* 8/27 - Class 1: Intro to GitHub and R Projects
+* 8/29 - Class 2: Intro to Shiny
 #### Week 2
-* 9/3 - Reactive Programming Pt. 1
-* 9/5 - UI & Shinyapps.io Deployment
-* 9/6 - Homework 1 Due
+* 9/3 - Class 3: Reactive Programming Pt. 1
+* 9/5 - Class 4: UI & Shinyapps.io Deployment
+* **9/6 - Homework 1 Due**
 #### Week 3
-* 9/10 - Reactive Programming Pt. 2
-* 9/12 - Advanced Reactivity
+* 9/10 - Class 5: Reactive Programming Pt. 2
+* 9/12 - Class 6: Advanced Reactivity
 #### Week 4
-* 9/17 - Interactive Vizualisations
-* 9/19 - Dashboards & Troubleshooting
+* 9/17 - Class 7: Interactive Vizualisations
+* 9/19 - Class 8: Dashboards
 ##### Week 5
-* 9/24 - Modules & Bookmarking
-* 9/26 - Project 1 In-class Work Day
-* 9/27 - Project 1 Due
+* 9/24 - Class 9: Modules & Bookmarking
+* 9/26 - Class 10: Troubleshooting
+* **9/27 - Project 1 Due**
 #### Week 6
-* 10/1 - Leaflet
-* 10/2 - Leaflet w/ Shiny
-* 10/3 - Homework 2 Due
+* 10/1 - Class 11: Leaflet
+* 10/2 - Class 12: Leaflet w/ Shiny
+* **10/3 - Homework 2 Due**
 #### Week 7
-* 10/8 - Deployment Methods
-* 10/10 - SQL & API's (Project 2 Extra Credit)
+* 10/8 - Class 13: Deployment Methods
+* 10/10 - Class 14: SQL & API's (Project 2 Extra Credit)
 #### Week 8
 * 10/15 - Project 2 In-class Work Day
 * 10/17 - Project 2 In-class Work Day
-* 10/18 - Project 2 Due
+* **10/18 - Project 2 Due**
