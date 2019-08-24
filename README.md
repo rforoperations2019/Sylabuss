@@ -4,16 +4,16 @@
 * Units: 6, Section(s): 1
 
 #### Instructor information
-* Name:	Geoffrey Arnold
+* Name: Geoffrey Arnold
 * Email: gla@andrew.cmu.edu
-* Office location: TBD
-* Office hours:	Thursdays 6:15-7:15
+* Office hours: Thursdays 6:15-7:15
+* Office hours location: HBH Lounge
 
 #### TA information
-* Name:	
-* Email: 
+* Name: Malvika Singh
+* Email: malvikas@andrew.cmu.edu
 * Office location: TBD
-* Office hours:
+* Office hours: TBD
 
 ## Course Description
 This course will teach students to generate interactive websites including GIS maps and other data visualizations and reports using the R programming language. The course will focus on RStudio’s Shiny web application framework for creating interactive web applications, and the Leaflet library package for mobile-friendly interactive maps. This course builds directly from its prerequisite course, Programming R for Analytics course, and offers students a chance to build skills that will be marketable in both the public and the private sectors. Students will learn to load data from a variety of sources and formats for use in interactive web interfaces that can provide real-time information, including Rest APIs.
