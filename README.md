@@ -12,8 +12,9 @@
 #### TA information
 * Name: Malvika Singh
 * Email: malvikas@andrew.cmu.edu
-* Office location: TBD
-* Office hours: TBD
+* Office hrs: 
+  * HBH 1109 - Tuesdays 10:30am - noon
+  * A007H - Thursdays 3 - 4:30pm
 
 ## Course Description
 This course will teach students to generate interactive websites including GIS maps and other data visualizations and reports using the R programming language. The course will focus on RStudio’s Shiny web application framework for creating interactive web applications, and the Leaflet library package for mobile-friendly interactive maps. This course builds directly from its prerequisite course, Programming R for Analytics course, and offers students a chance to build skills that will be marketable in both the public and the private sectors. Students will learn to load data from a variety of sources and formats for use in interactive web interfaces that can provide real-time information, including Rest APIs.
@@ -112,8 +113,8 @@ Students will be assigned the following final letter grades, based on calculatio
 * 10/2 - Class 12: Leaflet w/ Shiny
 * **10/3 - Homework 2 Due**
 #### Week 7
-* 10/8 - Class 13: Deployment Methods
-* 10/10 - Class 14: SQL & API's (Project 2 Extra Credit)
+* 10/8 - Class 13: SQL & API's (Project 2 Extra Credit)
+* 10/10 - Class 14: Deployment Methods
 #### Week 8
 * 10/15 - Project 2 In-class Work Day
 * 10/17 - Project 2 In-class Work Day
