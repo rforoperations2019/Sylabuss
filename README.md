@@ -110,7 +110,7 @@ Students will be assigned the following final letter grades, based on calculatio
 * **9/27 - Project 1 Due**
 #### Week 6
 * 10/1 - Class 11: Leaflet
-* 10/2 - Class 12: Leaflet w/ Shiny
+* 10/2 - Class 12: LeafletProxy
 * **10/3 - Homework 2 Due**
 #### Week 7
 * 10/8 - Class 13: SQL & API's (Project 2 Extra Credit)
